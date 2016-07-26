@@ -1,2 +1,3 @@
 # Pong
-Pong game
+
+Simple Pong game developed with Xna framework
